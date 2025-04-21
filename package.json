@@ -1,0 +1,14 @@
+{
+  "name": "pop_quiz_web3",
+  "version": "1.0.0",
+  "description": "A technical test for a Web3 Blockchain Engineer role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "ariessa",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

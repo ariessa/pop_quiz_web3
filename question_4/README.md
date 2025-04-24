@@ -22,7 +22,7 @@ The next version of the section 2 application intends to have Web3 Self-sovereig
 
 #### System Architecture Diagram
 
-<img src="/diagrams/system_architecture_diagram.png"/>
+<img src="/question_4/diagrams/system_architecture_diagram.png"/>
 
 The system uses credential to identify investors. Only investors can buy/sell assets from the company.
 
@@ -110,7 +110,7 @@ The system uses credential to identify investors. Only investors can buy/sell as
 
 **Data Flow Diagram Level 0**
 
-<img src="/diagrams/data_flow_diagram_level_0.png"/>
+<img src="/question_4/diagrams/data_flow_diagram_level_0.png"/>
 
 <br />
 
